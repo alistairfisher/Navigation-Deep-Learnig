@@ -1,4 +1,4 @@
-# Navigation-Deep-Learnig
+# Navigation-Deep-Learning
 Deep learning project for Udacity nanodegree
 
 ### Introduction
